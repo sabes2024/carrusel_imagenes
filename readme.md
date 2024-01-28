@@ -1,8 +1,8 @@
-# 👩‍💻 Guía Rápida Repositorio de imágenes Empresa sabes 📸
+# 👩‍💻 Guía Rápida Repositorio de imágenes 📸
 
-<span style="color: lightgray; font-style: italic;">
+<span style="color: lightgray"><i>
 Aquí encontrarás instrucciones paso a paso sobre cómo agregar y eliminar imágenes en este repositorio.
-</span>
+</i></span>
 
 <br>
 
@@ -40,12 +40,12 @@ Aquí encontrarás instrucciones paso a paso sobre cómo agregar y eliminar imá
 
 **4.** 📝 Proporciona una breve descripción de los cambios en el campo "Commit changes".
 
-    ![Confirmar Eliminación](guia_subir_imagenes/paso_eliminar2.png)
+   ![Confirmar Eliminación](guia_subir_imagenes/paso_eliminar2.png)
 
 **5.** Haz clic en "Commit changes" para confirmar la eliminación del archivo.
 
 <br>
 <br>
-<span style="color: lightgray; font-style: italic;">
+<span style="color: lightgray"><i>
 ¡Y eso es todo! Siguiendo estos sencillos pasos, podrás gestionar fácilmente las imágenes que aparecen en el carrusel de su sitio web. Si tienes alguna pregunta o problema, no dudes en contactarnos.
-</span>
+</i></span>
