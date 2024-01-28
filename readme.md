@@ -10,7 +10,7 @@ Aquí encontrarás instrucciones paso a paso sobre cómo agregar y eliminar imá
 
 **1.** 🚀 Haz clic en el botón verde "Code" y selecciona "Upload files".
 
-   ![Subir Imágenes](guia_subir_imagenes/paso1.png)
+   ![Subir Imágenes](guia_subir_imagenes/primerpaso.png)
 
 <br>
 
