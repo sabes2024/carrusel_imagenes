@@ -1,15 +1,21 @@
-# 👩‍💻 Guía Rápida del Repositorio de Imágenes sabes 📸
+# 👩‍💻 Guía Rápida Repositorio de imágenes Empresa sabes 📸
 
+<span style="color: lightgray; font-style: italic;">
 Aquí encontrarás instrucciones paso a paso sobre cómo agregar y eliminar imágenes en este repositorio.
+</span>
 
 <br>
 
 ## 📌Añadir una Imagen
 
 **1.** 🚀 Haz clic en el botón verde "Code" y selecciona "Upload files".
+
    ![Subir Imágenes](guia_subir_imagenes/paso1.png)
 
+<br>
+
 **2.** Arrastra tus imágenes al área designada o haz clic en "Choose your files" para seleccionar archivos manualmente.
+
    ![Confirmar Cambios](guia_subir_imagenes/paso2.png)
 
 **3.** Espera a que los archivos se carguen y aparecerán en la lista.
@@ -27,9 +33,13 @@ Aquí encontrarás instrucciones paso a paso sobre cómo agregar y eliminar imá
 **2.** Haz clic en el archivo para abrirlo.
 
 **3.** En la esquina superior derecha, haz clic en el ícono de la papelera.
+
    ![Eliminar Imágenes](guia_subir_imagenes/paso_eliminar1.png)
 
+<br>
+
 **4.** 📝 Proporciona una breve descripción de los cambios en el campo "Commit changes".
+
     ![Confirmar Eliminación](guia_subir_imagenes/paso_eliminar2.png)
 
 **5.** Haz clic en "Commit changes" para confirmar la eliminación del archivo.
