@@ -1,44 +1,38 @@
-# Repositorio de Imágenes para el Carrusel del Sitio Web
+# Guía para el Repositorio de Imágenes de la Empresa
 
-¡Bienvenido al repositorio de imágenes para el carrusel de nuestro sitio web! Aquí puedes subir y gestionar las imágenes que aparecerán en la interfaz de usuario.
+Aquí encontrarás instrucciones paso a paso sobre cómo agregar y eliminar imágenes en este repositorio.
 
-## Cómo Subir Nuevas Imágenes
 
-1. **Ve a la Página Principal del Repositorio:** [Enlace al Repositorio](https://github.com/tu-usuario/tu-repositorio)
+## Añadir una Imagen
 
-2. **Navega a la Carpeta de Imágenes:** Haz clic en la carpeta llamada `images` o cualquier otra carpeta designada para las imágenes del carrusel.
+**1.** Haz clic en el botón verde "Code" y selecciona "Upload files".
+   ![Subir Imágenes](guia_subir_imagenes/paso1.png)
 
-3. **Sube Nuevas Imágenes:**
-   - Haz clic en el botón "Add file" y selecciona "Upload files".
-   - Arrastra y suelta tus imágenes en el área designada o selecciona "choose your files" para buscarlas en tu computadora.
-   - Proporciona un nombre descriptivo para cada imagen (asegúrate de que sean archivos de imagen comunes como .jpg, .png, etc.).
+2.** Arrastra tus imágenes al área designada o haz clic en "Choose your files" para seleccionar archivos manualmente.
+   ![Confirmar Cambios](guia_subir_imagenes/paso2.png)
 
-   ![Subir Imágenes](imagenes_guia/paso1.png)
+**3.** Espera a que los archivos se carguen y aparecerán en la lista.
 
-4. **Confirma los Cambios:** Desplázate hacia abajo, completa el campo "Commit changes" con un mensaje descriptivo, y haz clic en "Commit changes".
+**4.** Proporciona una breve descripción de los cambios en el campo "Commit changes".
 
-   ![Confirmar Cambios](imagenes_guia/paso2.png)
+**5.** Haz clic en "Commit changes" para confirmar la carga de las imágenes.
 
-5. **Espera a que se Complete la Subida:** Puede llevar unos momentos dependiendo del tamaño de las imágenes.
+<br>
 
-¡Listo! Tus imágenes ahora están en el repositorio y aparecerán en el carrusel del sitio web después de la próxima actualización.
+## Eliminar una Imagen
 
-## Cómo Eliminar Imágenes
+**1.** Navega hasta el archivo que deseas eliminar.
 
-1. **Ve a la Página Principal del Repositorio:** [Enlace al Repositorio](https://github.com/tu-usuario/tu-repositorio)
+**2.** Haz clic en el archivo para abrirlo.
 
-2. **Navega a la Carpeta de Imágenes:** Haz clic en la carpeta llamada `images` o la carpeta donde están almacenadas las imágenes del carrusel.
+**3.** En la esquina superior derecha, haz clic en el ícono de la papelera.
+   ![Eliminar Imágenes](guia_subir_imagenes/paso_eliminar1.png)
 
-3. **Elimina Imágenes:**
-   - Dentro de la carpeta, selecciona la imagen que deseas eliminar.
-   - Haz clic en el botón "Trash" (papelera) en la parte superior derecha de la página.
+**4.** Proporciona una breve descripción de los cambios en el campo "Commit changes".
+    ![Confirmar Eliminación](guia_subir_imagenes/paso_eliminar2.png)
 
-   ![Eliminar Imágenes](screenshots/delete_images.png)
+**5.** Haz clic en "Commit changes" para confirmar la eliminación del archivo.
 
-4. **Confirma la Eliminación:** Proporciona un mensaje descriptivo en el campo "Commit changes" y haz clic en "Commit changes".
-
-   ![Confirmar Eliminación](screenshots/confirm_deletion.png)
-
-5. **Espera a que se Complete la Eliminación:** La imagen será eliminada del repositorio.
-
-¡Y eso es todo! Siguiendo estos sencillos pasos, podrás gestionar fácilmente las imágenes que aparecen en el carrusel de nuestro sitio web. Si tienes alguna pregunta o problema, no dudes en contactarnos.
+<br>
+<br>
+¡Y eso es todo! Siguiendo estos sencillos pasos, podrás gestionar fácilmente las imágenes que aparecen en el carrusel de su sitio web. Si tienes alguna pregunta o problema, no dudes en contactarnos.
