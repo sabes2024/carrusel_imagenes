@@ -13,11 +13,11 @@
    - Arrastra y suelta tus imágenes en el área designada o selecciona "choose your files" para buscarlas en tu computadora.
    - Proporciona un nombre descriptivo para cada imagen (asegúrate de que sean archivos de imagen comunes como .jpg, .png, etc.).
 
-   ![Subir Imágenes](screenshots/upload_images.png)
+   ![Subir Imágenes](imagenes_guia/paso1.png)
 
 4. **Confirma los Cambios:** Desplázate hacia abajo, completa el campo "Commit changes" con un mensaje descriptivo, y haz clic en "Commit changes".
 
-   ![Confirmar Cambios](screenshots/confirm_changes.png)
+   ![Confirmar Cambios](imagenes_guia/paso2.png)
 
 5. **Espera a que se Complete la Subida:** Puede llevar unos momentos dependiendo del tamaño de las imágenes.
 
