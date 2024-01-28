@@ -43,7 +43,7 @@ Aquí encontrarás instrucciones paso a paso sobre cómo agregar y eliminar imá
    ![Confirmar Eliminación](guia_subir_imagenes/paso_eliminar2.png)
 
 **5.** Haz clic en "Commit changes" para confirmar la eliminación del archivo.
-
+<hr>
 <br>
 <br>
 <span style="color: lightgray"><i>
