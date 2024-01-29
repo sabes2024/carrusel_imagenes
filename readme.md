@@ -8,7 +8,7 @@ Aquí encontrarás instrucciones paso a paso sobre cómo agregar y eliminar imá
 
 ## 📌Añadir una Imagen
 
-**1.** 🚀 Haz clic en el botón verde "Code" y selecciona "Upload files".
+**1.** 🚀 Haz clic en el botón "Add File" y selecciona "Upload files".
 
    ![Subir Imágenes](guia_subir_imagenes/primerpaso.png)
 
@@ -16,13 +16,16 @@ Aquí encontrarás instrucciones paso a paso sobre cómo agregar y eliminar imá
 
 **2.** Arrastra tus imágenes al área designada o haz clic en "Choose your files" para seleccionar archivos manualmente.
 
-   ![Confirmar Cambios](guia_subir_imagenes/paso2.png)
+   ![Confirmar Cambios](guia_subir_imagenes/segundopaso.png)
 
 **3.** Espera a que los archivos se carguen y aparecerán en la lista.
 
 **4.** 📝 Proporciona una breve descripción de los cambios en el campo "Commit changes".
 
 **5.** Haz clic en "Commit changes" para confirmar la carga de las imágenes.
+
+   ![Confirmar Cambios](guia_subir_imagenes/tercerpaso.png)
+<br>
 <hr>
 <br>
 
