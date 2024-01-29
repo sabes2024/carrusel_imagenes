@@ -39,8 +39,6 @@ Aquí encontrarás instrucciones paso a paso sobre cómo agregar y eliminar imá
 
    ![Eliminar Imágenes](guia_subir_imagenes/eliminarpaso1.png)
 
-<br>
-
 #### **4.** 📝 Proporciona una breve descripción de los cambios en el campo "Commit changes".
 
    ![Confirmar Eliminación](guia_subir_imagenes/eliminarpaso2.png)
